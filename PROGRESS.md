@@ -23,7 +23,7 @@ Als je klaar bent met een oefening, gelieve het ❌ icoon te vervangen door een 
 | ❌ | **3: Navigatiemenu en lijsten** | Makkelijk
 | ❌ | **4: Media** | Makkelijk
 | ❌ | **5: Tabel** | Makkelijk
-| ❌ | **6: Formulier** | Medium
+| ❌ | **6: Formulier** | Gemiddeld
 
 ## [Oefenreeks 3: CSS](Oefenreeks%202%20-%20CSS/README.md)
 
@@ -31,8 +31,8 @@ Als je klaar bent met een oefening, gelieve het ❌ icoon te vervangen door een 
 | :---: | --- | --- |
 | ❌ | **1: Basis CSS** | Makkelijk
 | ❌ | **2: Navigatiemenu** | Makkelijk
-| ❌ | **3: Tabel** | Medium
-| ❌ | **4: Formulier** | Medium
+| ❌ | **3: Tabel** | Gemiddeld
+| ❌ | **4: Formulier** | Gemiddeld
 | ❌ | **5: Media** | Moeilijk
 
 ## [Oefenreeks 4: Bootstrap](Oefenreeks%204%20-%20Bootstrap/README.md)
@@ -40,9 +40,9 @@ Als je klaar bent met een oefening, gelieve het ❌ icoon te vervangen door een 
 | Voltooid? | Oefening | Moeilijkheid
 | :---: | --- | --- |
 | ❌ | **1: Grid** | Makkelijk
-| ❌ | **2: Navigatiemenu** | Medium
-| ❌ | **3: Bootstrap klassen** | Medium
-| ❌ | **4: Bootstrap klassen** | Medium
+| ❌ | **2: Navigatiemenu** | Gemiddeld
+| ❌ | **3: Bootstrap klassen** | Gemiddeld
+| ❌ | **4: Bootstrap klassen** | Gemiddeld
 | ❌ | **5: Formulier** | Moeilijk
 
 ## [Oefenreeks 5: Communicatie](Oefenreeks%205%20-%20Communicatie/README.md)
@@ -59,15 +59,15 @@ Als je klaar bent met een oefening, gelieve het ❌ icoon te vervangen door een 
 | ❌ | **1: Array** | Makkelijk
 | ❌ | **2: Object** | Makkelijk
 | ❌ | **3: JSON** | Makkelijk
-| ❌ | **4: Media** | Medium
-| ❌ | **5: Formulier** | Medium
+| ❌ | **4: Media** | Gemiddeld
+| ❌ | **5: Formulier** | Gemiddeld
 
 ## [Oefenreeks 7: Web API](Oefenreeks%207%20-%20Web%20API/README.md)
 
 | Voltooid? | Oefening | Moeilijkheid
 | :---: | --- | --- |
 | ❌ | **1: API** | Makkelijk
-| ❌ | **2: async/await** | Medium
-| ❌ | **3: Google Chart: taartdiagram** | Medium
-| ❌ | **4: Google Chart: staafdiagram** | Medium
-| ❌ | **5: Google Chart: trendlijn** | Medium
+| ❌ | **2: async/await** | Gemiddeld
+| ❌ | **3: Google Chart: taartdiagram** | Gemiddeld
+| ❌ | **4: Google Chart: staafdiagram** | Gemiddeld
+| ❌ | **5: Google Chart: trendlijn** | Gemiddeld

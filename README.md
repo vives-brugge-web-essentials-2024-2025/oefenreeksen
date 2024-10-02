@@ -27,7 +27,7 @@ Om te beginnen moet je eerst een kopie van deze repository krijgen. Volg de onde
    
    *Kies alsjeblieft geen doelmap die diep genest is. De structuur van deze repository introduceert behoorlijk wat submappen en kan problemen veroorzaken met de maximale padlengte in Windows.*
 
-![PowerShell openen in map](./Global/powershell.png)
+![PowerShell openen in map](./global/powershell.png)
 
 8. Voer het `git clone`-commando in, gevolgd door de URL die je hebt gekopieerd (rechtermuisknop of <kbd>Ctrl</kbd> + <kbd>V</kbd> om te plakken).
 
@@ -61,9 +61,9 @@ Navigeer naar je local oefenreeksen-<gebruikersnaam> map en open een PowerShell-
 1. Voeg alle gewijzigde bestanden toe met het commando: `git add .`
 2. Commit de bestanden en voeg een bericht toe: git commit -m `Mijn bericht komt hier`
 
-3. Push je wijzigingen naar GitHub: `git push origin master`
+3. Push je wijzigingen naar GitHub: `git push origin main`
 
-    ![Committing and pushing via PowerShell](./Global/commit_push_powershell.png)
+    ![Committing and pushing via PowerShell](./global/commit_push_powershell.png)
 
 4. Om zeker te weten dat alles goed is gegaan, kun je altijd het commando git status uitvoeren, zelfs tussen andere commando's door.
 
@@ -95,7 +95,7 @@ Elke keer dat je updates wilt binnenhalen, moet je de volgende stappen volgen:
 1. Zorg er eerst voor dat je geen lokale wijzigingen hebt. Dit kun je zien door het commando git status uit te voeren. Er zou moeten staan "nothing to commit, working tree clean". Zo niet, dan moet je eerst de wijzigingen toevoegen en committen (zie sectie[Wijzigingen committen](#wijzigingen-committen)).
 2. Voer nu het commando git pull base master --allow-unrelated-histories uit om de nieuwste wijzigingen binnen te halen.
 
-![Pulling Changes](./Global/pull_changes.png)
+![Pulling Changes](./global/pull_changes.png)
 
 Zorg ervoor dat je geen conflicten hebt voordat je alles commit.
 

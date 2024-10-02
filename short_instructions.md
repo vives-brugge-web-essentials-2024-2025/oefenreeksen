@@ -10,7 +10,7 @@ Navigeer naar je lokale `oefenreeksen-<gebruikersnaam>` map en open een PowerShe
 
 1. Voeg alle gewijzigde bestanden toe met het commando: `git add .`
 2. Commit de bestanden en voeg een bericht toe: `git commit -m "Mijn bericht komt hier"`
-3. Push je wijzigingen naar GitHub: `git push origin master`
+3. Push je wijzigingen naar GitHub: `git push origin main`
 4. Om zeker te weten dat alles goed is gegaan, kun je altijd het commando `git status` uitvoeren, zelfs tussen andere commando's door.
 
 Je kunt ook naar je GitHub-pagina van deze repo navigeren en controleren of alles goed is gegaan.
