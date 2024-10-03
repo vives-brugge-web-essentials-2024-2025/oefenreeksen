@@ -4,7 +4,7 @@ Vervang `...` in de onderstaande vragen door jouw antwoord.
 
 # Oefening 1
 
-Via een link surf je naar http://localhost:8080/friendships/create?my_id=100&user_id=200
+Analyseer de link http://localhost:8080/friendships/create?my_id=100&user_id=200 en los de volgende vragen op.
 
 1. Waarvoor staat deze tekststring?
 > ...
@@ -48,7 +48,7 @@ Via een link surf je naar http://localhost:8080/friendships/create?my_id=100&use
 
 # Oefening 4
 
-1. Onderzoek de routes tussen jouw toestel en [www.github.com](www.github.com). Plaats ook een screenshot van de console.
+1. Onderzoek de routes tussen jouw toestel en [www.github.com](www.github.com). Plaats ook een screenshot van de terminal.
 > ...
 
 # Oefening 5
