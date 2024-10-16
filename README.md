@@ -59,7 +59,7 @@ Wijzigingen kunnen worden gecommit en terug gepusht naar GitHub met behulp van d
 Navigeer naar je local oefenreeksen-<gebruikersnaam> map en open een PowerShell-venster door <kbd>Shift</kbd> ingedrukt te houden en met de rechtermuisknop op de map te klikken. Kies vervolgens Open PowerShell window here uit het contextmenu, zoals eerder gedaan in [sectie Starten als student](#starten-als-een-student).
 
 1. Voeg alle gewijzigde bestanden toe met het commando: `git add .`
-2. Commit de bestanden en voeg een bericht toe: git commit -m `Mijn bericht komt hier`
+2. Commit de bestanden en voeg een bericht toe: `git commit -m "Mijn bericht komt hier"`
 
 3. Push je wijzigingen naar GitHub: `git push origin main`
 
@@ -81,7 +81,7 @@ Om de laatste updates binnen te halen, moet je eerst de originele repo toevoegen
 git remote add base git@github.com:vives-brugge-web-essentials-2024-2025/oefenreeksen.git
 ```
 
-`base` is de naam van de remote repo. Nu zou je twee remotes moeten zien wanneer je het commando git remote -v uitvoert. Bijvoorbeeld:
+`base` is de naam van de remote repo. Nu zou je twee remotes moeten zien wanneer je het commando `git remote -v` uitvoert. Bijvoorbeeld:
 
 ```text
 base     git@github.com:vives-brugge-web-essentials-2024-2025/oefenreeksen.git (fetch)
@@ -93,7 +93,7 @@ origin  git@github.com:vives-brugge-web-essentials-2024-2025/oefenreeksen.git-Lu
 Elke keer dat je updates wilt binnenhalen, moet je de volgende stappen volgen:
 
 1. Zorg er eerst voor dat je geen lokale wijzigingen hebt. Dit kun je zien door het commando git status uit te voeren. Er zou moeten staan "nothing to commit, working tree clean". Zo niet, dan moet je eerst de wijzigingen toevoegen en committen (zie sectie[Wijzigingen committen](#wijzigingen-committen)).
-2. Voer nu het commando git pull base master --allow-unrelated-histories uit om de nieuwste wijzigingen binnen te halen.
+2. Voer nu het commando `git pull base master --allow-unrelated-histories` uit om de nieuwste wijzigingen binnen te halen.
 
 ![Pulling Changes](./global/pull_changes.png)
 
