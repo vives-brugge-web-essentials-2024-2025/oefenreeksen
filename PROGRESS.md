@@ -4,7 +4,7 @@ Deze repository is van: **JouwNaamVoornaam**
 
 Als je klaar bent met een oefening, gelieve het ❌ icoon te vervangen door een ✔️.
 
-## [Oefenreeks 1: protocollen](Oefenreeks%201%20-%20protocollen/README.md)
+## [Oefenreeks 1: Protocollen](Oefenreeks%201%20-%20Protocollen/README.md)
 
 | Voltooid? | Oefening | Moeilijkheid
 | :---: | --- | --- |
