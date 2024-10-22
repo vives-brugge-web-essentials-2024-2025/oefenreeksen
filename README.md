@@ -93,7 +93,7 @@ origin  git@github.com:vives-brugge-web-essentials-2024-2025/oefenreeksen.git-Lu
 Elke keer dat je updates wilt binnenhalen, moet je de volgende stappen volgen:
 
 1. Zorg er eerst voor dat je geen lokale wijzigingen hebt. Dit kun je zien door het commando git status uit te voeren. Er zou moeten staan "nothing to commit, working tree clean". Zo niet, dan moet je eerst de wijzigingen toevoegen en committen (zie sectie[Wijzigingen committen](#wijzigingen-committen)).
-2. Voer nu het commando `git pull base master --allow-unrelated-histories` uit om de nieuwste wijzigingen binnen te halen.
+2. Voer nu het commando `git pull base main --allow-unrelated-histories` uit om de nieuwste wijzigingen binnen te halen.
 
 ![Pulling Changes](./global/pull_changes.png)
 
