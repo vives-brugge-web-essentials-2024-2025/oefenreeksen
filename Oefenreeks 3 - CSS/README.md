@@ -18,7 +18,7 @@
 ## Oefening 2
 
 * Start een nieuw webproject 'oefening_2' en voorzie de basis voor een goede webpagina.
-* Voeg een ongeordende lijst toe met 4 links naar verschillende pagina's of websites. De eerste is Home en staat actief.
+* Voeg een ongeordende lijst toe met 4 links naar verschillende pagina's of websites. De eerste is Home en staat actief (= geef het een andere stijl zoals kleur).
 * Voeg nu ook een `navigation.css`-bestand toe en refereer ernaar in je `index.html`.
 * Zorg nu voor een horizontale navigatiemenu uitzicht met witte achtergrond en een schaduw errond. 
 * De links staan aan de linkerzijde met wat ruimte tussen de links.
