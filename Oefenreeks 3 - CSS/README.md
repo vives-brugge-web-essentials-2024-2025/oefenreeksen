@@ -5,7 +5,7 @@
 * Start een nieuw webproject 'oefening_1' en voorzie de basis voor een goede webpagina.
 * Voeg een hoofding en 'lorem ipsum' paragraaf toe aan deze pagina.
 * Plaats een `general.css`-bestand in de correct voorziene map en voeg een referentie ernaar toe in `index.html`.
-* Voeg als eerste een CSS reset toe. Maak steeds gebruik van commentaar om de CSS duidelijker te maken.
+* Voeg als eerste een CSS reset toe, **doe dit voortaan ook in de andere oefeningen waarin CSS gebruikt wordt**. Maak tevens gebruik van commentaar om de CSS duidelijker te maken.
 * Voeg nu de nodige CSS-code toe zodat:
     * de html-pagina een achtergrondkleur heeft, maak gebruik van de RGB-syntax.
     * de body 80% breed is en horizontaal gecentreerd is op je html-pagina.
