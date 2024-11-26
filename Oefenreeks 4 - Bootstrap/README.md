@@ -15,6 +15,8 @@
 
 ![IMAGE](./images/image2.png)
 
+Opmerking: naast een CSS include van `bootstrap.min.css`, zal je ook een script include nodig hebben naar bv. `https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js` en naar `bootstrap.min.js`. Dit dient om het uitklappen van het menu mogelijk te maken.
+
 ## Oefening 3
 
 * Start een nieuw webproject 'oefening_3' en voorzie de basis voor een goede webpagina.
